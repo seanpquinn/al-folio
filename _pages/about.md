@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Physics and Astronomy Building 3-357</p>
+    <p>PAB 3-357</p>
     <p>475 Portola Plaza</p>
     <p>Los Angeles, CA 90095</p>
 
@@ -21,6 +21,12 @@ involved in designing and building the time of flight system, serving as the mai
 
 Research interests
 ------
-My interests can be roughly partitioned into three main efforts: (1) design and construction of particle detectors with a focus on data acquisition systems, electronics and associated simulations for cosmic ray 
-physics (2) calibration and comparative studies of surface detectors used by super giant arrays studying cosmic rays at the highest energies and (3) the propagation of ultra-high energy cosmic rays through the 
+I am broadly interested in the direct detection of slow cosmic rays (a compelling and clean channel for indirect dark matter searches) and indirect detection of the ultra-high energy cosmic rays (UHECR $$E>10^{18}$$ eV) to test the standard model at the high energy frontier.
+
+More specifically: (1) the design and construction of particle detectors with a focus on data acquisition systems, electronics and associated simulations for cosmic ray 
+physics (2) calibration and comparative studies of surface detectors used by super giant arrays studying UHECRs and (3) the propagation of ultra-high energy cosmic rays through the 
 cosmic environment and deflections by astrophysical magnetic fields.
+
+Other interests
+------
+I enjoy traveling and the outdoors. Since moving to California I've tried to take advantage of the many beautiful trails. Here are a few of my hikes: https://www.gaiagps.com/profile/935044/Sean%20Quinn/
