@@ -21,6 +21,17 @@ The SiPM preamp is a custom design: cathode outputs of six sensors are summed an
     Fourth generation preamp board.
 </div>
 
+To achieve highest possible $$\Delta \beta / \beta$$ the end to end timing resolution should be as high as possible. With the fourth generation boards we are able to exceed the requirement of 500 ps
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/timing_histo.png' | relative_url }}" alt="" title="Timing performance"/>
+    </div>
+</div>
+<div class="caption">
+    End to end timing performance.
+</div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
